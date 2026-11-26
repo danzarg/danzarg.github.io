@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://danzarg.github.io/sitemap.xml
